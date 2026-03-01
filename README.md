@@ -10,7 +10,7 @@ This project bridges the gap between Game Theory research and accessible UI desi
 * **Information Set Modeling:** Full support for simultaneous moves and imperfect information via automated information set grouping.
 * **Recursive Visualization Engine:** Utilizes a custom recursive traversal algorithm to map PyGambit C-extensions to stable NetworkX graph structures, overcoming transient memory identity constraints.
 
-## Techn Stack
+## Tech Stack
 * **Engine:** PyGambit (The industry-standard Game Theory library)
 * **Structure:** NetworkX (Directed Acyclic Graph logic)
 * **Rendering:** Matplotlib + Pydot (Hierarchical tree layouts)
