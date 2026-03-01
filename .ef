@@ -1,0 +1,9 @@
+player 1 name Alice
+player 2 name Bob
+level -2.0 node 1 player 1 
+level 2.0 node 1 player 1 xshift -2.0 from -2.0,1 move Action~1 
+level 6.0 node 1 xshift -1.0 from 2.0,1 move Action~1 payoffs 2 1 
+level 6.0 node 2 xshift 1.0 from 2.0,1 move Action~2 payoffs -1 2 
+level 4.0 node 1 player 1 xshift 2.0 from -2.0,1 move Action~2 
+level 6.0 node 3 xshift -1.0 from 4.0,1 move Action~1 payoffs 2 1 
+level 6.0 node 4 xshift 1.0 from 4.0,1 move Action~2 payoffs -1 2 

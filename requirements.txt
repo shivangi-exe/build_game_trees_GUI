@@ -1,0 +1,5 @@
+streamlit
+pygambit
+networkx
+matplotlib
+matplotlib.pyplot
