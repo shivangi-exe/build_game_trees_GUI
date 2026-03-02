@@ -1,4 +1,7 @@
 # Build Game Trees GUI
+
+Link: https://build-game-trees.streamlit.app/
+
 Interactive web app for visualizing game theory concepts as game trees as extensive-form game trees — designed for students, researchers, and educators who want to explore simple game examples without writing a single line of code.
 
 This project bridges the gap between Game Theory research and accessible UI design. Built for the PyGambit ecosystem, it allows researchers and students to dynamically construct, visualize, and analyze Extensive Form Games.
